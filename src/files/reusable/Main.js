@@ -12,18 +12,18 @@ function Main()
             </button>
             <div class="collapse navbar-collapse" id="navbarNav1">
                 <ul class="navbar-nav">
-                <li class="nav-item">
+                {/* <li class="nav-item">
                 <Link to='/Hello' className="m-3 text-danger">Hello</Link>
-                </li>
-                <li class="nav-item">
+                </li> */}
+                {/* <li class="nav-item">
                 <Link to='/Congrats' className="m-3 text-danger">CongratsCard</Link>
-                </li>
-                <li class="nav-item">
+                </li> */}
+                {/* <li class="nav-item">
                 <Link to='/Match' className="m-3 text-danger">Match</Link>
-                </li>
-                <li class="nav-item">
+                </li> */}
+                {/* <li class="nav-item">
                 <Link to='/Button' className="m-3 text-danger">Button</Link>
-                </li>
+                </li> */}
                 <li class="nav-item">
                 <Link to='/Notification' className="m-3 text-danger">Notification</Link>
                 </li>
@@ -34,25 +34,28 @@ function Main()
                 <Link to='/Card' className="m-3 text-danger">Card</Link>
                 </li>
                 <li class="nav-item">
-                <Link to='/Responce' className="m-3 text-danger">Responce</Link>
+                <Link to='/Responce' className="m-3 text-danger">Single page view</Link>
                 </li>
                 <li class="nav-item">
                 <Link to='/Emoji' className="m-3 text-danger">FeedBack</Link>
                 </li>
-                <li class="nav-item">
+                {/* <li class="nav-item">
                 <Link to='/Fruit' className="m-3 text-danger">Fruits</Link>
-                </li>
-                <li class="nav-item">
+                </li> */}
+                {/* <li class="nav-item">
                 <Link to='/Incrementt' className="m-3 text-danger">Increment</Link>
-                </li>
-                <li class="nav-item">
+                </li> */}
+                {/* <li class="nav-item">
                 <Link to='/Dates' className="m-3 text-danger">Date</Link>
-                </li>
+                </li> */}
                 <li class="nav-item">
                 <Link to='/Crypto' className="m-3 text-danger">Crypto</Link>
                 </li>
                 <li class="nav-item">
                 <Link to='/View' className="m-3 text-danger">View</Link>
+                </li>
+                <li class="nav-item">
+                <Link to='/' className="m-3 text-danger">Portfolio</Link>
                 </li>
                 </ul>
             </div>

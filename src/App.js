@@ -2,6 +2,13 @@ import logo from './logo.svg';
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Mainpro from './files/pro/main';
+import Proskills from './files/pro/skills';
+import Procerti from './files/pro/certificate';
+import Proabout from './files/pro/abouts';
+import Proproject from './files/pro/project';
+
+
 import Emoji from './files/FeedBack App/feed';
 import Emoji2 from './files/FeedBack App/feed2';
 
@@ -13,6 +20,7 @@ import Emoji2 from './files/FeedBack App/feed2';
         import Notification from './files/notification/notification';
         import Card from './files/card/card'
         import Hello from './files/hello/hello';
+
 import Dash from './files/z sample file/dashboard';
 import Home from './files/z sample file/home';
 import Works from './files/z sample file/works';
@@ -28,6 +36,7 @@ import Dates from './files/date/date';
 import Crypto from './files/frontend/fcard';
 import View from './files/view page/viewdata';
 import Details from './files/view page/viewpage';
+import Proedu from './files/pro/edu';
 
 function App() {
   return (
@@ -42,7 +51,7 @@ function App() {
       {/* <Card/> */}
       <BrowserRouter>
       <Routes>
-        <Route path='/' element={<Main/>}/>
+        <Route path='/Main' element={<Main/>}/>
         <Route path='/Login' element={<Login/>}/>
         <Route path='/Notification' element={<Notification/>}/>
         <Route path='/Button' element={<Button/>}/>
@@ -52,7 +61,7 @@ function App() {
         <Route path='/Hello' element={<Hello/>}/>
         <Route path='/Responce' element={[<Main/>,<Dash/>,<Responce/>]}/>
 
-        <Route path='/' element={<Dash/>}/>
+        <Route path='/Dash' element={<Dash/>}/>
         <Route path='/Home' element={[<Dash/>,<Home/>]}/>
         <Route path='/Works' element={[<Dash/>,<Works/>]}/>
         <Route path='/Form' element={[<Dash/>,<Form/>]}/>
@@ -70,6 +79,14 @@ function App() {
         <Route path='/View' element={[<Main/>,<View/>]}/>
         <Route path='/Details/:id' element={<Details/>}/>
         
+        <Route path='/' element={[<Mainpro/>,<Proedu/>,<Proskills/>,<Procerti/>,<Proabout/>]}/>
+        <Route path='/Proskills' element={<Proskills/>}/>
+        <Route path='/Procerti' element={<Procerti/>}/>
+        <Route path='/Proabout' element={<Proabout/>}/>
+        {/* <Route path='/Proproject' element={<Proproject/>}/> */}
+        <Route path='/Proedu' element={<Proedu/>}/>
+        
+
       </Routes>
       </BrowserRouter>
       {/* <Incrementt/> */}

@@ -1,0 +1,163 @@
+.pro_bground{
+     background-image: url('https://img.freepik.com/premium-photo/old-brown-crumpled-paper-texture-background-vintage-wallpaper_118047-8897.jpg?w=2000'); 
+    /* background-color: #334756; */
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.pro_bground1{
+    /* background-image: url('https://i.pinimg.com/originals/63/24/3a/63243aacfe563f25e472f9e187723df1.gif'); */
+    background-color: #E5BA73;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+.pro_bgroundsof{
+    /* background-image: url('https://i.pinimg.com/originals/63/24/3a/63243aacfe563f25e472f9e187723df1.gif'); */
+    background-color: #FAEAB1;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+.pro_bgroundsof1{
+    /* background-image: url('https://i.pinimg.com/originals/63/24/3a/63243aacfe563f25e472f9e187723df1.gif'); */
+    background-color: #FAEAB1;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.pro_bgroundcer{
+    /* background-image: url('https://i.pinimg.com/originals/63/24/3a/63243aacfe563f25e472f9e187723df1.gif'); */
+    background-color: #E5BA73;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+.pro_bgroundcer1{
+    /* background-image: url('https://i.pinimg.com/originals/63/24/3a/63243aacfe563f25e472f9e187723df1.gif'); */
+    background-color: #E5BA73;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.pro1{
+    font-size: larger;
+    color:#2B3A55;
+}
+.pro1:hover{
+    background-color: grey;
+    text-transform: uppercase;   
+}
+/* .pro_bg1{
+    border-radius: 50%;
+    margin-top: 100px;
+} */
+.pro_text{
+    color: rgb(10, 10, 10);
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: yellowgreen 5px 2px 5px ;
+    padding-top: 200px;
+}
+.pro_text1{
+    color: #2B3A55;
+    font-family: 'Times New Roman', Times, serif;
+    /* text-shadow: yellowgreen 5px 2px 5px ; */
+}
+.p_cb{
+    background-color: transparent;
+}
+.c-t1{
+    color: #2B3A55;
+    /* text-shadow: yellowgreen 5px 5px 5px; */
+}
+.psb{
+    border-radius: 10px;
+}
+.pmn{
+    /* padding-right: 0px;
+    padding-left: 0px; */
+    background-color: #E5BA73;
+}
+.psr{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+ 
+.html{
+    width: 95%;
+}
+.css{
+    width: 90%;
+}
+.js{
+    width: 75%;
+}
+.java{
+    width: 50%;
+}
+.react{
+    width: 70%;
+}
+.node{
+    width: 60%;
+}
+
+.resume .resume-title {
+    font-size: 26px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #2B3A55;
+  }
+  
+  .resume .resume-item {
+    padding: 0 0 20px 20px;
+    margin-top: -2px;
+    border-left: 2px solid #CE7777;
+    position: relative;
+  }
+  
+  .resume .resume-item h4 {
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: #C58940;
+    margin-bottom: 10px;
+  }
+  
+  .resume .resume-item h5 {
+    font-size: 16px;
+    background: #f7f8f9;
+    padding: 5px 15px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  .resume .resume-item ul {
+    padding-left: 20px;
+  }
+  
+  .resume .resume-item ul li {
+    padding-bottom: 10px;
+  }
+  
+  .resume .resume-item:last-child {
+    padding-bottom: 0;
+  }
+  
+  .resume .resume-item::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50px;
+    left: -9px;
+    top: 0;
+    background: #fff;
+    border: 2px solid #082032;
+  }
