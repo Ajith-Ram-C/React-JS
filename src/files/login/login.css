@@ -1,0 +1,19 @@
+.bg1{
+    background-image: url('../../images/gra.jpg');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    padding: 50px;
+}
+.bw1{
+    border-radius: 20px;
+}
+.bg2{
+    border-radius: 20px;
+    padding: 40px;
+}
+.b1{
+    border-radius: 20px;
+    border: transparent;
+    color: white;
+}

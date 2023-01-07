@@ -1,0 +1,17 @@
+.f1{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.f2{
+    height: 100px;
+    width: 100px;
+}
+.f3{
+    height: 100%;
+}
+.f5{
+    height: 100%;
+    padding: 100px;
+    margin-top: 20px;
+}

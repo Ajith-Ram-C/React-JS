@@ -1,0 +1,14 @@
+.bgg1{
+    background-image:url('../../images/congrats-card-bg.png');
+    height: 100vh;
+    width: 100%;
+}
+.bgg2{
+    background-color: aqua;
+    height: 500px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+

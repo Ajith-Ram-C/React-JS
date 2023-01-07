@@ -1,0 +1,93 @@
+[
+    {
+        "image":"https://www.citypng.com/public/uploads/preview/-51614361279q4q7nu9qhq.png",
+        "title":"Bitcoin (BTC)",
+        "description":"Bitcoin is a decentralized cryptocurrency originally described in a 2008 whitepaper by a person, or group of people, using the alias Satoshi Nakamoto. It was launched soon after, in January 2009.",
+        "price":"$16,594.88",
+        "marketcap":"$319,289,596,732",
+        "url":"https://www.coingecko.com/en/coins/bitcoin",
+        "star":4.8
+    },
+    {
+        "image":"https://pngset.com/images/ethereum-logo-ethereum-triangle-transparent-png-1170181.png",
+        "title":"Ethereum (ETH)",
+        "description":"Ethereum is a decentralized open-source blockchain system that features its own cryptocurrency, Ether. ETH works as a platform for numerous other cryptocurrencies, as well as for the execution of decentralized smart contracts.",
+        "price":"$1,198.17",
+        "marketcap":"$146,625,230,441",
+        "url":"https://www.coingecko.com/en/coins/ethereum",
+        "star":4.0
+    },
+    {
+        "image":"https://cryptologos.cc/logos/tether-usdt-logo.png",
+        "title":"Tether (USDT)",
+        "description":"USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether. The token’s peg to the USD is achieved via maintaining a sum of commercial paper, fiduciary deposits, cash, reserve repo notes, and treasury bills in reserves that is equal in USD value to the number of USDT in circulation.",
+        "price":"$0.999972",
+        "marketcap":"$66,242,543,185",
+        "url":"https://www.coingecko.com/en/coins/tether",
+        "star":4.5
+    },
+    {
+        "image":"https://www.logo.wine/a/logo/Binance/Binance-BNB2-Dark-Background-Logo.wine.svg",
+        "title":"Binance (BNB)",
+        "description":"Launched in July 2017, Binance is the biggest cryptocurrency exchange globally based on daily trading volume. Binance aims to bring cryptocurrency exchanges to the forefront of financial activity globally. The idea behind Binance’s name is to show this new paradigm in global finance — Binary Finance, or Binance.",
+        "price":"$245.77",
+        "marketcap":"$40,137,110,970",
+        "url":"https://www.coingecko.com/en/coins/bnb",
+        "star":4.8
+    },
+    {
+        "image":"https://www.vhv.rs/dpng/d/134-1345205_transparent-xrp-logo-png-png-download.png",
+        "title":"XRP",
+        "description":"Launched in 2021, the XRP Ledger (XRPL) is an open-source, permissionless and decentralized technology. Benefits of the XRP Ledger include its low-cost ($0.0002 to transact), speed (settling transactions in 3-5 seconds), scalability (1,500 transactions per second) and inherently green attributes (carbon-neutral and energy-efficient).",
+        "price":"$0.346226",
+        "marketcap":"$17,433,942,745",
+        "url":"https://www.coingecko.com/en/coins/xrp",
+        "star":3.8
+    },
+    {
+        "image":"https://banner2.cleanpng.com/20180413/sge/kisspng-dogecoin-cryptocurrency-dash-digital-currency-doge-5ad13b0da01474.3329552115236615816557.jpg",
+        "title":"Dogecoin (DOGE)",
+        "description":"Dogecoin (DOGE) is based on the popular doge Internet meme and features a Shiba Inu on its logo. The open-source digital currency was created by Billy Markus from Portland, Oregon and Jackson Palmer from Sydney, Australia, and was forked from Litecoin in December 2013.",
+        "price":"$0.070812",
+        "marketcap":"$9,738,350,143",
+        "url":"https://www.coingecko.com/en/coins/dogecoin",
+        "star":2.5
+    },
+    {
+        "image":"https://katochtubes.com/wp-content/uploads/2021/08/What-is-ADA-cardano-Price-prediction-1024x576.png",
+        "title":"Cardano (ADA)",
+        "description":"Cardano is a proof-of-stake blockchain platform that says its goal is to allow “changemakers, innovators and visionaries” to bring about positive global change",
+        "price":"$0.245618",
+        "marketcap":"$8,609,025,965",
+        "url":"https://www.coingecko.com/en/coins/cardano",
+        "star":3.0
+        
+    },
+    {
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TRON-logo-EN-vertical.svg/800px-TRON-logo-EN-vertical.svg.png",
+        "title":"Tron (TRX)",
+        "description":"TRON (TRX) is a decentralized blockchain-based operating system developed by the Tron Foundation and launched in 2017. Originally TRX tokens were ERC-20-based tokens deployed on Ethereum, but a year later they were moved to their own network",
+        "price":"$0.054215",
+        "marketcap":"$4,987,244,848",
+        "url":"https://www.coingecko.com/en/coins/tron",
+        "star":4.5
+    },
+    {
+        "image":"https://1000logos.net/wp-content/uploads/2022/09/Shiba-Inu-Symbol.png",
+        "title":"ShibaInu",
+        "description":"Once upon a time, there was a very special dog. That dog was a Shiba Inu, and this dog inspired millions of people around the world to invest money into tokens with the dog's image on it",
+        "price":"$0.00000793",
+        "marketcap":"$0.00000793",
+        "url":"https://www.coingecko.com/en/coins/shiba-inu",
+        "star":4.0
+    },
+    {
+        "image":"https://miro.medium.com/proxy/0*5JKqfShYebcwPnZK.png",
+        "title":"Uniswap (UNI)",
+        "description":"Uniswap is a popular decentralized trading protocol, known for its role in facilitating automated trading of decentralized finance (DeFi) tokens",
+        "price":"$5.08",
+        "marketcap":"$3,830,921,185",
+        "url":"https://www.coingecko.com/en/coins/uniswap",
+        "star":3.5
+    }
+]

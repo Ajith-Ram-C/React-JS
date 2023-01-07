@@ -1,0 +1,7 @@
+.ho1:hover{
+    background-color:skyblue ;
+    transform: scale(1.05);
+}
+.ho1:active{
+    background-color: aliceblue;
+}
